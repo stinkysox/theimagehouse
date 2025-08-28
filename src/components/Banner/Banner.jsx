@@ -17,7 +17,7 @@ const Banner = () => {
     }
   };
 
-  const text = `Suchi Gowdru 😎 — Visual Arts, capturing stories through the lens. As a passionate ಕನ್ನಡಿಗ photographer and cinematographer, Suchi specializes in wedding shoots, celebrity sessions, and baby photography. With a unique blend of creativity and authentic storytelling, every frame reflects emotion, style, and timeless memories. @theimageryhouse`;
+  const text = `Suchi Gowdru 😎 — Visual Arts, capturing stories through the lens. As a passionate ಕನ್ನಡಿಗ photographer and cinematographer, Suchi Gowdru specializes in wedding shoots, celebrity sessions, and baby photography. With a unique blend of creativity and authentic storytelling, every frame reflects emotion, style, and timeless memories. @theimageryhouse`;
 
   const words = text.split(" ");
 

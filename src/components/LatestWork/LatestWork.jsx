@@ -42,14 +42,6 @@ const initialCategories = {
       category: "Wedding",
     },
     {
-      imageUrl: "https://i.postimg.cc/qvWfWQhv/TIH01908.jpg",
-      category: "Wedding",
-    },
-    {
-      imageUrl: "https://i.postimg.cc/prcczXKL/TIH02049.jpg",
-      category: "Wedding",
-    },
-    {
       imageUrl: "https://i.postimg.cc/mZ1m5R3C/TIH03861.jpg",
       category: "Wedding",
     },
@@ -171,6 +163,250 @@ const initialCategories = {
     },
     {
       imageUrl: "https://i.postimg.cc/02q0XSy1/MAN8649.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/c4p2mhv7/DSC00018.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/X7StKxGf/DSC00035.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/bwqMWJRd/DSC00037.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/4xpMFccD/DSC00038.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/ZqRQYM2S/DSC05814.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/7h68FL4g/DSC06156.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/SKrPmpDV/DSC06198.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/MGx4kGbv/TIH00009.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/SjFdWZgJ/TIH03897.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/tJ7wrmdk/TIH03921.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/wTq7B5qV/TIH04001.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/Gt0gQh2L/TIH04257.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/G3SZBdr5/TIH04269.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/k5X064VL/TIH04283.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/jdwBPmSd/TIH04306.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/BbyyRcM0/TIH04314.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/XvHTwbdq/TIH04332.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/XYy3NXCL/TIH04365.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/BbxYw9Lx/TIH04464.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/3wcckZQD/TIH04513.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/pXrR7sVg/TIH04979.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/DyNnK18m/TIH05375.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/ZYy1yXRY/TIH06051.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/MpJ3RGLd/TIH06061.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/kgZ4wkx1/TIH06148-Edit.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/3x75h938/TIH06263.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/Gt5wd136/TIH06426-Edit.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/HLDmrH0g/TIH06844.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/prGxrFCG/TIH07155.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/ZqTf7M4N/TIH07171.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/Kvf37qqw/TIH07198.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/nLBH2MVr/TIH07492.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/xjH4dHxc/TIH07992.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/261gGK7w/TIH08523.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/T1yNj5GH/TIH08643.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/RC8DSdLr/TIH08668.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/XvfbFhxy/TIH08674.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/PfmwJrmt/TIH09114.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/bv3mK9wB/TIH09175-Edit.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/FRvhBm1Z/TIH09189.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/x1q8v0bN/TIH09201.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/jSv9bb8c/TIH09304.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/ZRX2Mxfh/TIH09954.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/qRFj7Bnc/TIH09972.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/DyXY8GxS/UDI00922.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/nV0n0yx4/UDI00981.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/SKMKPDdy/UDI02587.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/V64PZCxf/UDI07397.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/NFw2DWwq/UDI07422.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/xTXVgqtQ/UDI07583.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/L8r9jjpG/UDI07592.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/85bT836V/UDI09047.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/QNbdvBQW/UDI09560.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/d1RVs3gp/UDI09915.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/HLgGpzHW/WAS04926.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/VLXQ22QZ/WAS04938.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/9QT55S6N/WAS05572.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/hvPcKrLQ/WAS05750.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/PxvFY8dV/WAY08169.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/02yyv8nX/WAY08178.jpg",
+      category: "Wedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/vZS1k1dv/WAY08516.jpg",
       category: "Wedding",
     },
   ],
