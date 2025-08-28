@@ -15,18 +15,6 @@ const services = [
     title: "Engagement Photography",
     image: "https://i.postimg.cc/s247QHRn/TIH08484-2.jpg",
   },
-
-  {
-    title: "Fashion Photography",
-    image:
-      "https://i.pinimg.com/736x/66/08/0b/66080bcf27518a1996a84229588d1517.jpg",
-  },
-
-  {
-    title: "Baby Shoot",
-    image:
-      "https://i.pinimg.com/736x/cb/fc/fb/cbfcfb08936cd1ebf9001ac12af26758.jpg",
-  },
 ];
 
 const OurServices = () => {
