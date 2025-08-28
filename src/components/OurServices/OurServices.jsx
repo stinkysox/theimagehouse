@@ -9,7 +9,7 @@ const services = [
   },
   {
     title: "Pre-wedding Photography",
-    image: "https://i.postimg.cc/C17nvRPS/TIH01493.jpg",
+    image: "https://i.postimg.cc/jq8JPJnh/TIH05368.jpg",
   },
   {
     title: "Engagement Photography",
