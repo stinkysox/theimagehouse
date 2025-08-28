@@ -1,0 +1,58 @@
+.navbar {
+  width: 100%;
+  background-color: #4b406c;
+  padding: 40px 20px; /* reduced vertical padding */
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Cedarville Cursive", cursive;
+  height: 90px; /* fix the height */
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.navbar-socials {
+  display: flex;
+  gap: 20px;
+}
+
+.navbar-logo {
+  height: 70px;
+}
+
+.navbar h2 {
+  font-size: 28px;
+  margin: 0;
+}
+
+.nav-social-media-icon {
+  font-size: 30px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+  color: white;
+}
+
+.nav-social-media-icon:hover:nth-child(1) {
+  color: #e1306c;
+}
+
+/* Facebook hover color */
+.nav-social-media-icon:hover:nth-child(2) {
+  color: #1877f2;
+}
+
+.logo-image {
+  height: 40px;
+}
+
+.navbar-one {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+@media (max-width: 468px) {
+  .navbar h2 {
+    font-size: 17px;
+  }
+}

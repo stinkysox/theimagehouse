@@ -1,0 +1,73 @@
+.footer {
+  background-color: beige;
+  padding: 40px 20px 20px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: black;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+
+.footer-brand {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.logo-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-title img {
+  height: 42px;
+  object-fit: contain;
+}
+
+.brand-name {
+  font-weight: 600;
+  font-size: 18px;
+  color: #000;
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.footer-tagline {
+  font-size: 14px;
+  color: black;
+  margin-top: 10px;
+  max-width: 300px;
+  line-height: 1.5;
+}
+
+.footer-socials {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.footer-socials a {
+  color: black;
+  font-size: 22px;
+  transition: color 0.3s ease;
+}
+
+.footer-socials a:hover {
+  color: #ff9900;
+}
+
+.footer-bottom {
+  margin-top: 30px;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  font-size: 13px;
+  color: black;
+}
