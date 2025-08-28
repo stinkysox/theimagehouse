@@ -51,7 +51,7 @@ const Footer = () => {
       {/* Footer Bottom */}
       <div className="footer-bottom">
         <p>
-          © {new Date().getFullYear()} The Image House. All rights reserved.
+          © {new Date().getFullYear()} The Imagery House. All rights reserved.
         </p>
       </div>
     </footer>
