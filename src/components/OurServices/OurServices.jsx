@@ -15,6 +15,10 @@ const services = [
     title: "Engagement Photography",
     image: "https://i.postimg.cc/s247QHRn/TIH08484-2.jpg",
   },
+  {
+    title: "Haldi Photography",
+    image: "https://i.postimg.cc/Kvjkcvzs/TIH06050.jpg",
+  },
 ];
 
 const OurServices = () => {
