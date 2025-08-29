@@ -1,29 +1,49 @@
 .navbar {
   width: 100%;
   background-color: #4b406c;
-  padding: 40px 20px; /* reduced vertical padding */
+  padding: 40px 20px;
   color: white;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-family: "Cedarville Cursive", cursive;
-  height: 90px; /* fix the height */
+  height: 90px;
   box-sizing: border-box;
   overflow: hidden;
 }
 
-.navbar-socials {
+.navbar-one {
   display: flex;
-  gap: 20px;
+  align-items: center;
+  gap: 10px;
 }
 
 .navbar-logo {
   height: 70px;
 }
 
-.navbar h2 {
-  font-size: 28px;
-  margin: 0;
+/* Right section (phone + socials) */
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+/* Phone number style */
+.navbar-phone {
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  font-family: "Poppins", sans-serif;
+}
+.navbar-phone:hover {
+  color: #ffd369;
+}
+
+.navbar-socials {
+  display: flex;
+  gap: 20px;
 }
 
 .nav-social-media-icon {
@@ -33,26 +53,29 @@
   color: white;
 }
 
-.nav-social-media-icon:hover:nth-child(1) {
+.nav-social-media-icon.instagram:hover {
   color: #e1306c;
 }
 
-/* Facebook hover color */
-.nav-social-media-icon:hover:nth-child(2) {
+.nav-social-media-icon.facebook:hover {
   color: #1877f2;
 }
 
-.logo-image {
-  height: 40px;
-}
-
-.navbar-one {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
 @media (max-width: 468px) {
-  .navbar h2 {
-    font-size: 17px;
+  .navbar {
+    flex-direction: column;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+    gap: 10px;
+  }
+
+  .navbar-right {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .navbar-phone {
+    font-size: 16px;
   }
 }
